@@ -33,6 +33,20 @@
   color: rgba(255, 255, 255, 0.3);
 }
 
+body {
+  background-color: #ccc;
+}
+
+.light-bg {
+  background-color: #fff;
+  padding: 32px;
+}
+
+.dark-bg {
+  background-color: #121212;
+  padding: 32px;
+}
+
 .my-icon {
   background-color: orange;
   font-weight: bold;
